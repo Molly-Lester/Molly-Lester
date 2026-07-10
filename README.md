@@ -9,7 +9,7 @@ I'm Molly, a Full-Stack Developer who recently completed the Code First Girls Fu
 
 ### 📢 Good to know:
 
-- You can reach me on LinkedIn through message. Whether you'd like to chat about tech, careers, or potential collaborations, my virtual door is always open! 
+- You can reach me on LinkedIn through message or you can also find my email address in my contact info section. Whether you'd like to chat about tech, careers, or potential collaborations, my virtual door is always open! 
 
 ### 📚 I’m currently working on ...
 
