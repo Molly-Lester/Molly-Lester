@@ -5,7 +5,7 @@ I'm Molly, a Full-Stack Developer who recently completed the Code First Girls Fu
 ### 🗺️ A little roadmap to my online presence... 
 
 - Here in my Github you will find mini projects I've put together along the last several months whilst I've been diving into the world of web development!
-- On my LinkedIn you will find out a bit more about me, my background and the information on the bootcamp I've been progressing through these last several months, as well as my career history and why I was drawn to coding in the first place. 
+- On my LinkedIn you will find out a bit more about me, the information on the bootcamp I've been progressing through these last several months and why I was drawn to coding in the first place. 
 
 ### 📢 Good to know:
 
